@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "dart-mcp": {
+      "command": "./.venv/bin/python",
+      "args": ["/Volumes/macwin_by_h/agentplatform_kr/dart-mcp-main/dart-mcp-main/dart.py"],
+      "env": { "DART_API_KEY": "3c5e2a05bccc0f727a76ab4f0d0c8dfae92156ca" }
+    }
+  }
+}
